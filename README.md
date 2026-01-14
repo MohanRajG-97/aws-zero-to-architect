@@ -5,3 +5,9 @@
 - AWS regions and availability zones
 - Why high availability matters
 - Free tier and cost awareness
+## Day 2 - IAM & Security Fundamentals
+- What is IAM
+- Root user vs IAM user
+- IAM users, groups, roles
+- IAM policies (JSON)
+- Least privilege principle
