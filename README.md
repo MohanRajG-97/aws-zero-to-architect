@@ -10,7 +10,7 @@
 - IAM users, groups, roles
 - IAM policies (JSON)
 - Least privilege principle
- 5ef111f05c9d013c6bae8b19176b0a49e0775a8f
+
 ## Day 3 - EC2 & Linux Fundamentals
 - What is EC2
 - AMI, instance type, storage, security group
