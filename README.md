@@ -17,3 +17,10 @@
 - How to connect to EC2
 - Basic Linux commands on EC2
 - Importance of stopping/terminating instances
+## Day 4 - VPC & Networking Fundamentals
+- What is a VPC
+- CIDR block meaning
+- Public vs Private Subnets
+- Internet Gateway role
+- Route Tables and traffic flow
+- Why EC2 connectivity fails without proper networking
